@@ -6,3 +6,51 @@
     width: 1170px;
     margin: 0 auto;
 }
+
+#dob {
+}
+
+.header {
+    overflow: hidden;
+}
+
+.header-wrapper {
+    margin: 20px 0;
+}
+
+.logo {
+    float: left;
+}
+
+.login-form {
+    float: right
+}
+
+.login-input {
+}
+
+.login-submit {
+}
+
+.contant {
+    overflow: hidden;
+}
+
+.contant-wrapper {
+    margin-top: 20px;
+}
+
+.siderbar {
+    float: left;
+}
+
+.siderbar img {
+    width: 348px;
+}
+
+.registration {
+    float: right;
+}
+
+.signup-input {
+}
